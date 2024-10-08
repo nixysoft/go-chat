@@ -1,7 +1,7 @@
 # Chat Room Application
 
 Welcome to the **Real-Time Chat Room Application**! This application features a backend built with Go (utilizing WebSocket for real-time communication) and a frontend developed in React, providing an engaging user interface.
-
+![image](https://github.com/nixysoft/go-chat/blob/main/Capture.PNG)
 ## Project Structure
 
 ```bash
